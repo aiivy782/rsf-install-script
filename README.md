@@ -12,5 +12,6 @@ Wrote a bash script that installs and runs routersploit automatically. I hope I 
 
 ## Frequently asked questions.
 
+**Q**: What platforms does it work on?
 
-What platforms does it work on?
+**A**: This script works for all UNIX-like operation systems.
